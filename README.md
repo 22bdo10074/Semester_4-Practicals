@@ -20,10 +20,13 @@ In this experiment we will Merge Pull Request and Update local repository on Git
 In this experiment we will perform Creation of Forks on GitHub.
 
 
+
+
 ### [Design and analysis of algorithm](https://github.com/22bdo10074/Semester_4-Practicals/tree/Design-and-Analysis-of-Algorithm):
 DAA practicals aim to reinforce theoretical knowledge gained in lectures with hands-on implementation experience. 
 They help students develop practical problem-solving skills, algorithmic intuition, and 
 the ability to analyze and optimize algorithms for various computational tasks.
+
 ### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Design-and-Analysis-of-Algorithm/exp-1%20DAA.docx):
 Here is the Implementation of Binary Search using the Divide & Conquer Approach.
 ### [Experiment-2](https://github.com/22bdo10074/Semester_4-Practicals/blob/Design-and-Analysis-of-Algorithm/Experiment%20No%202.docx):
@@ -39,11 +42,14 @@ Here is the Implementation of Travelling Salesman Problem (TSP) using Dynamic Pr
 ### [Experiment-7](https://github.com/22bdo10074/Semester_4-Practicals/blob/Design-and-Analysis-of-Algorithm/Experiment%207%20DAA.pdf):
 To Perform Matrix Chain Multiplication Problem (MCM) using Dynamic Programming.
 
+
+
  
 
 ### [Agile_practices](https://github.com/22bdo10074/Semester_4-Practicals/tree/Agile_practices):
 Agile practicals provide us with valuable experiential learning opportunities, allowing them to apply Agile principles and practices in a controlled environment, develop teamwork and communication skills, 
 and gain insights into the challenges and benefits of Agile methodologies in real-world projects.
+
 
 ### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Agile%20exp-1.docx):
 Mapping Agile Development approach with Software Development.
