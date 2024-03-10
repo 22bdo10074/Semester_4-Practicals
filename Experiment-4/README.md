@@ -130,7 +130,10 @@ int uni(int i, int j)
   return 0; 
 } 
  
-### 4.4 Conclusion: 
+### 4.4 Conclusion:
+
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/dd38390a-9e22-4ed1-9f56-c0beb03a07f5)
+
   
 ### 4.5 Analysis: 
 The time complexity of Kruskal’s Algorithm = O(ElogV) or O(ElogE). where e is the number of edges and v is the number of vertices. 
