@@ -5,7 +5,7 @@ DAA practicals aim to reinforce theoretical knowledge gained in lectures with ha
 They help students develop practical problem-solving skills, algorithmic intuition, and 
 the ability to analyze and optimize algorithms for various computational tasks.
 
-### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/upload/Design-and-Analysis-of-Algorithm/Experiment-1):
+### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/tree/Design-and-Analysis-of-Algorithm/Experiment-1):
 Here is the Implementation of Binary Search using the Divide & Conquer Approach.
 ### [Experiment-2](https://github.com/22bdo10074/Semester_4-Practicals/tree/Design-and-Analysis-of-Algorithm/Experiment-2):
 Here is the Implementation of Quick Sort using Divide & Conquer Approach.
