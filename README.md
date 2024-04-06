@@ -3,7 +3,7 @@ Git is a version control system that helps you manage your project's source code
 GitHub is a platform that hosts Git repositories and provides collaboration features. 
 Here's a basic walkthrough of some practicals you can try with Git and GitHub:
 
-### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/EXP1-GIT/EXP1-GIT.docx):
+### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/EXP1-GIT/README.md):
 In this experiment we are going to Install Git and creating repository.
 ### [Experiment-2](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-1.2/README.md):
 In this experiment we will Creating branches by using git command and also by directly creating brances on github.
