@@ -15,9 +15,9 @@ In this experiment we will Editing a file and committing changes on GitHub.
 In this experiment we will Merge Pull Request and Update local repository on GitHub
 ### [Experiment-6](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.3/README.md):
 In this experiment we will perform Creation of Forks on GitHub.
-### [Experiment-7]():
+### [Experiment-7](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.4/README.md):
 In this experiment we will perform git merge conflicts and resolving git merge conflicts.
-### [Experiment-8]():
+### [Experiment-8](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-3.1/README.md):
 In this experiment we wil compare the changes in the repository.
 ### [Experiment-9]():
 In this experiment we will understanding the various reset modes. 
