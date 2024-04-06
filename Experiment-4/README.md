@@ -1,7 +1,10 @@
 # Experiment-4:
 ## Explain the software development scenario using Extreme Programming (XP)
-1.AIM: Explain the software development scenario using Extreme Programming (XP)
-2.Objectives:
+### Diagram:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/45a5aedf-6a16-440e-9ec2-363af1679c19)
+
+### 1.AIM: Explain the software development scenario using Extreme Programming (XP)
+### 2.Objectives:
 ·         Brief introduction about Extreme Programming (XP)
 ·         Write one scenario
 ### Introduction to Extreme Programming
