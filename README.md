@@ -8,17 +8,33 @@ Here's a basic walkthrough of some practicals you can try with Git and GitHub:
 
 ### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/EXP1-GIT/README.md):
 In this experiment we are going to Install Git and creating repository.
-### [Experiment-2](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-1.2/Worksheet-1.2%20git.docx):
+
+### [Experiment-2](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-1.2/README.md):
 In this experiment we will Creating branches by using git command and also by directly creating brances on github.
-### [Experiment-3](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/worksheet-1.3/Worksheet_-_1.3%20git.docx):
+
+### [Experiment-3](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/worksheet-1.3/README.md):
 In this experiment we will creating and exploring Pull request.
-### [Experiment-4](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.1/Worksheet%20-%202.1.docx):
+
+### [Experiment-4](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.1/README.md):
 In this experiment we will Editing a file and committing changes on GitHub.
-### [Experiment-5](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.2/worksheet-2.2%20git.docx):
+
+### [Experiment-5](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.2/README.md):
 In this experiment we will Merge Pull Request and Update local repository on GitHub
-### [Experiment-6](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.3/worksheet-6%20git.docx):
+
+### [Experiment-6](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.3/README.md):
 In this experiment we will perform Creation of Forks on GitHub.
 
+### [Experiment-7](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-2.4/README.md):
+In this experiment we will perform git merge conflicts and resolving git merge conflicts.
+
+### [Experiment-8](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-3.1/README.md):
+In this experiment we wil compare the changes in the repository.
+
+### [Experiment-9](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-3.2/README.md):
+In this experiment we will understanding the various reset modes.
+
+### [Experiment-10](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-3.3/README.md):
+In this experiment we will work with your history in git.
 
 
 
@@ -51,14 +67,36 @@ Agile practicals provide us with valuable experiential learning opportunities, a
 and gain insights into the challenges and benefits of Agile methodologies in real-world projects.
 
 
-### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Agile%20exp-1.docx):
-Mapping Agile Development approach with Software Development.
-### [Experiment-2](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment%202%20agile.docx):
-Test driven Development using JUnit.
-### [Experiment-3](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment%203%20Agile.docx):
-Test driven Development using Selenium.
-### [Experiment-4](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment%204%20Agile.docx):
-Explain the software development scenario using Extreme Programming (XP).
+### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-1/README.md):
+AIM: Mapping Agile Development approach with Software Development.
+
+### [Experiment-2](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-2/README.md):
+AIM: Test driven Development using JUnit.
+
+### [Experiment-3](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-3/README.md):
+AIM: Test driven Development using Selenium.
+
+### [Experiment-4](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-4/README.md):
+AIM:Explain the software development scenario using Extreme Programming (XP).
+
+### [Experiment-5](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-5/README.md):
+AIM: Explain the software development scenario using Scrum
+
+### [Experiment-6](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-6/README.md):
+AIM: Explain the software development scenario using SAFE
+
+### [Experiment-7](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-7/README.md):
+AIM: AIM: Software Development scenario using FDD
+
+### [Experiment-8](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-8/README.md):
+AIM: To study version control tool -- GIT
+
+### [Experiment-9](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-9/README.md):
+AIM:To study version control tool -- JIRA
+
+### [Experiment-10](https://github.com/22bdo10074/Semester_4-Practicals/blob/Agile_practices/Experiment-10/README.md):
+AIM:To study version control tool -- JENKINS
+
 
 
 
