@@ -19,7 +19,7 @@ In this experiment we will perform Creation of Forks on GitHub.
 In this experiment we will perform git merge conflicts and resolving git merge conflicts.
 ### [Experiment-8](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-3.1/README.md):
 In this experiment we wil compare the changes in the repository.
-### [Experiment-9]():
+### [Experiment-9](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-3.2/README.md):
 In this experiment we will understanding the various reset modes. 
-### [Experiment-10]():
+### [Experiment-10](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/Worksheet-3.3/README.md):
 In this experiment we will work with your history in git.
