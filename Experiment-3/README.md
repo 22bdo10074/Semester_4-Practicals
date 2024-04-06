@@ -1,7 +1,10 @@
 # Experiment-3
-## Test driven Development using Selenium
+## Aim: Test driven Development using Selenium
 
-Aim:Test-Driven Development (TDD) is a software development approach where tests are written before the actual code. In the context of Selenium, which is a popular tool for automating web browsers, TDD can be implemented by following these steps:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/959f74a1-84fc-4e57-9c0c-5a9f97c9ddaf)
+
+
+### Theory: Test-Driven Development (TDD) is a software development approach where tests are written before the actual code. In the context of Selenium, which is a popular tool for automating web browsers, TDD can be implemented by following these steps:
 
 1. Setup Your Testing Environment
 Ensure you have a programming language installed (like Java, Python, etc.), a testing framework (like JUnit, TestNG for Java; unittest, pytest for Python), and the Selenium WebDriver library.
