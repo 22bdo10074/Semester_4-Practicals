@@ -1,9 +1,12 @@
 # Experiment 2
 ## Test driven Development using JUnit
 
-1.Aim :  Test driven Development using JUnit
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/55691d82-c4d4-436e-9656-987df4330d11)
 
-2 Theory :  JUnit is a popular open-source unit testing framework for Java programming language. It is specifically designed to support and simplify the writing and running of unit tests—small, isolated tests that validate individual units (methods, functions, or classes) of source code.
+
+### 1.Aim :  Test driven Development using JUnit
+
+### 2 Theory :  JUnit is a popular open-source unit testing framework for Java programming language. It is specifically designed to support and simplify the writing and running of unit tests—small, isolated tests that validate individual units (methods, functions, or classes) of source code.
 JUnit provides a framework for creating test cases, defining test methods, organizing test suites, and running tests automatically. It is widely used in Java development to perform automated testing and ensure that individual units of code behave as expected.
 
 ### Key features of JUnit include:
@@ -47,5 +50,6 @@ Additional Tips:
 •	Organize tests into different classes based on functionalities.
 •	Continuously run the tests to ensure new changes or additions don't break existing functionalities.
 
+### Conclusion:
 TDD with JUnit allows for the creation of comprehensive test suites that ensure code reliability and correctness while enabling developers to refactor and enhance code with confidence.
 
