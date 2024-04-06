@@ -1,6 +1,6 @@
 # Semester_4-Practicals
 
-### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/EXP1-GIT.docx):
+### [Experiment-1](https://github.com/22bdo10074/Semester_4-Practicals/blob/Git-and-git-hub-practical/EXP1-GIT/README.md):
 ##  In this experiment we will Install Git and creating repository.
 ### Steps for installation of git:
  1. [Browse to the official Git website](https://git-scm.com/downloads).![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/a034286c-e0c1-4e23-8beb-cd639a16d0f6)
