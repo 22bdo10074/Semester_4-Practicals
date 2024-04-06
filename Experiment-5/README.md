@@ -1,9 +1,12 @@
 # Experiment-5
+### Diagram:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/452921d5-cab2-413f-8682-477ff672fd41)
+
 
 ## Explain the software development scenario using Scrum.
 
-AIM: Explain the software development scenario using Scrum
-Objectives:
+### AIM: Explain the software development scenario using Scrum
+### Objectives:
 
 ·         Brief introduction about Scrum
 
