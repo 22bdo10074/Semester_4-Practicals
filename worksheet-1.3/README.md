@@ -3,9 +3,9 @@
 ## To create and explore Pull request.
 
 	
-1. Aim/Overview of the practical: To create and explore Pull request.
-2 Task to be done: In this experiment, we have to make one repository on git-hub, then clone, make branch, add file, after adding file in local repository then push to remote repository then make some update on git-hub after this you can fetch and make pull request. 
-3. Steps for experiment/practical:
+### 1. Aim/Overview of the practical: To create and explore Pull request.
+### 2 Task to be done: In this experiment, we have to make one repository on git-hub, then clone, make branch, add file, after adding file in local repository then push to remote repository then make some update on git-hub after this you can fetch and make pull request. 
+### 3. Steps for experiment/practical:
           
 1)	Make repository on git-hub named as ExpThree.
 
@@ -68,7 +68,7 @@
     ![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/5839079a-d13f-40c5-b795-0eb6407dcc89)
 
 
-11). Observations/Discussions: It focused on creating and exploring pull requests could include insights and reflections on various aspects of the process. 
+### 11). Observations/Discussions: It focused on creating and exploring pull requests could include insights and reflections on various aspects of the process. 
 
-12). Result/Output/Writing Summary: The result or output of the experiment to create and explore pull requests would be the successful creation and merging of pull requests in the Git repository.
+### 12). Result/Output/Writing Summary: The result or output of the experiment to create and explore pull requests would be the successful creation and merging of pull requests in the Git repository.
 
