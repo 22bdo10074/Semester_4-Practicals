@@ -122,7 +122,9 @@ printf("\n\nMinimum cost is %d\n ",cost);
 
 return 0;
 }
-### 6.5 Conclusion:
+### 6.5 Conclusion or output:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/a8a0f0d4-9910-49b7-8183-284fe12906fd)
+
 ### 6.6 Analysis:
 Dynamic programming creates n.2n
 subproblems for n cities. Each sub-problem can be solved in
