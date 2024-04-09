@@ -168,28 +168,10 @@ return 0;
 
 }
 
-### 10.5 Conclusion:
-Enter the number of elements:5
+### 10.5 Conclusion or output:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/43c78cc1-3f3e-4ea1-a389-f7cad9a7f61c)
 
-Enter weight and value for elements 1: 23  6
 
-Enter weight and value for elements 2: 21  8
-
-Enter weight and value for elements 3: 45  9
-
-Enter weight and value for elements 4: 22  18
-
-Enter weight and value for elements 5: 67  12
-
-Enter Knapsack capacity: 50
-
-included= {23}; Total value=6
-
-included= {23,21}; Total value=14
-
-included= {23,22}; Total value=24
-
-included= {21,22}; Total value=26
 
 ### 10.6 Analysis:
 Its worst case time complexity is still given by O(2n
