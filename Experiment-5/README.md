@@ -142,16 +142,10 @@ bestJob(jobs,5);
 
  return 0;
 }
-### 5.Conclusion:
-  job id:      w  v  x  y 
+### 5.Conclusion or Output:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/2f849c5b-d110-45af-a015-8e7f020cf191)
+
   
-  job Deadline: 1  2   2  1
-  
-  job Profit:  19  100   27  25
-  
-  Best order and jobs to do is:
-  
-  X   V   Z
   
 ### 6.Analysis:
 
