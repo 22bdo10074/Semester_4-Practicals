@@ -69,59 +69,156 @@ Figure The ideal Quicksort on a random array
  
 ## Program Snippets:
 
-voidquickSort(int numbers[], intarray_size)
-{
-q_sort(numbers, 0, array_size - 1);
+#include<stdio.h>
 
-}
+ 
 
-voidq_sort(int numbers[], int left, int right)
-{
-int pivot, l_hold, r_hold;
+void quicksort(int number[25],int first,int last){
 
-l_hold = left; r_hold = right;
+ 
 
-pivot = numbers[left]; 
+int i, j, pivot, temp;
 
-while (left < right)
-{
-while ((numbers[right] >= pivot) && (left < right)) right--;
+ 
 
-if (left != right)
-{
-numbers[left] = numbers[right];
+if(first<last){
 
-left++;
-}
-while((numbers[left] <= pivot) &&(left <right)) left++;
+ 
 
-if (left != right)
-{
-numbers[right] = numbers[left]; 
+pivot=first;
 
-right--;
-}
-}
-numbers[left] = pivot; pivot = left;
+ 
 
-left= l_hold; right = r_hold;
+i=first;
 
-if (left <pivot)
+ 
 
-q_sort(numbers, left, pivot-1); 
+j=last;
 
-if (right > pivot)
+ 
 
-q_sort(numbers, pivot+1, right);
+while(i<j){
+
+ 
+
+while(number[i]<=number[pivot]&&i<last)
+
+ 
+
+i++;
+
+ 
+
+while(number[j]>number[pivot])
+
+ 
+
+j--;
+
+ 
+
+if(i<j){
+
+ 
+
+temp=number[i];
+
+ 
+
+number[i]=number[j];
+
+ 
+
+number[j]=temp;
+
+ 
+
+}}
+
+ 
+
+temp=number[pivot];
+
+ 
+
+number[pivot]=number[j];
+
+ 
+
+number[j]=temp;
+
+ 
+
+quicksort(number,first,j-1);
+
+ 
+
+quicksort(number,j+1,last);
+
+ 
+
+}}
+
+ 
+
+int main(){
+
+ 
+
+int i, count, number[25];
+
+ 
+
+printf("Enter some elements (Max. - 25): ");
+
+ 
+
+scanf("%d",&count);
+
+ 
+
+printf("Enter %d elements: ", count);
+
+ 
+
+for(i=0;i<count;i++)
+
+ 
+
+scanf("%d",&number[i]);
+
+ 
+
+quicksort(number,0,count-1);
+
+ 
+
+printf("The Sorted Order is: ");
+
+ 
+
+for(i=0;i<count;i++)
+
+ 
+
+printf(" %d",number[i]);
+
+ 
+
+return 0;
+
+ 
 
 }
 
 Input:	13	-5  -8 15  60  17  31  47
 
 ### Output:
-Sorted numbersare:-8  -5  13  15  17  31  47
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/0457395d-d8f9-4400-b3b6-3b3cb50ceebb)
+
+
  
-### Conclusion:
+### Analysis:
 
 Performance Analysis of Quick Sort
 
