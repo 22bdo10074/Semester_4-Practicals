@@ -180,37 +180,8 @@ return;
 } }}
 
 ### 8.4 Conclusion:
-Enter the number of nodes: 5
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/b6ef58be-6fb4-4be4-98e2-3c02c8bf2a94)
 
-Enter Adjacency Matrix:
-
-0 1 0 1 1
-
-1 0 1 1 0
-
-0 1 0 1 1
-
-1 1 1 0 1
-
-1 0 1 1 0
-
-Possible Solutions are:
-
-1 2 1 3 2
-
-1 3 1 2 3
-
-2 1 2 3 1
-
-2 3 2 1 3
-
-3 1 3 2 1
-
-3 2 3 1 2
-
-The chromatic number is 3
-
-The total number of solutions is 6
 
 ### 8.5 Analysis:
 Time Complexity: O(mV). There is a total O(mV) combination of colors
