@@ -96,7 +96,9 @@ int main()
  
 }
 
-### 7.4 Conclusion:
+### 7.4 Conclusion or output:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/65c1ae69-5508-4150-81e0-522acc0e1689)
+
 ### 7.5 Analysis:
 
 A simple inspection of the nested loop structure of MATRIX-CHAIN-ORDER yields a running
