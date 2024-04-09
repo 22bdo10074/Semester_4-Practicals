@@ -147,33 +147,8 @@ for(column=1;column<=n;++column)
  }}}
  
 ### 9.4 Conclusion:
--N Queens problem using backtracking-
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/9e9728c4-8f46-4fe6-b93f-09a6c8c76d4d)
 
-Enter number of queens:4
-
-Solution 1: 
-
-     1  2  3  4 
-     
-1    -  Q  -  -
-
-2    -  -  -  Q
-
-3    Q  -  -  -
-
-4    -  -  Q  -
-
-Solution 2:
-
-     1  2  3  4 
-     
-1    -  -  Q  -
-
-2    Q  -  -  -
-
-3    -  -  -  Q
-
-4    -  Q  -  -
 
 ### 9.8 Analysis:
 Time complexity for the N-Queen problem solved using Backtracking is O(N!) where N denotes
