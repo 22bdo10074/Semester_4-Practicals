@@ -114,6 +114,10 @@ int main(){
    
 }
 
+### OUTPUT:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/77814cd1-4c73-4a48-9d8f-40e1b0fc9ddf)
+
+
 ### Analysis:
 
 The complexity of Strassen’s matrix multiplication algorithm is O(nlog7)
