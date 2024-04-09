@@ -130,9 +130,11 @@ int uni(int i, int j)
   return 0; 
 } 
  
-### 4.4 Conclusion:
+### 4.4 Conclusion or Output:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/4f1a9ec5-03a5-4918-948c-f8923b95f113)
 
-![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/dd38390a-9e22-4ed1-9f56-c0beb03a07f5)
+
+
 
   
 ### 4.5 Analysis: 
