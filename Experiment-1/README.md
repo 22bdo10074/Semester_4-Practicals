@@ -54,7 +54,9 @@ printf("Not found! %d isn't present in the list.\n", search); return 0;
 
 }
 
-### Conclusion( must include analysis of program):
+### Conclusion( must include analysis of program)or output:
+![Screenshot (393)](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/c79ebf14-2fa5-4237-8707-18a42ab41c53)
+
 
 ### Analysis : 
 Linear search runs in O(n) time. Whereas binary search produces the result in O(log n) time. Let T(n) be the number of comparisons in worst-case in an array of nelements.
