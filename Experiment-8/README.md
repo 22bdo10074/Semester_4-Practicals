@@ -85,5 +85,13 @@ They help us overcome the problem of single point of failure.
 3.It integrates the work that is done simultaneously by different members of the team. In some rare cases, when conflicting edits are made by two people to the same line of a file, then human assistance is requested by the version control system in deciding what should be done.
 
 4.Version control provides access to the historical versions of a project. This is insurance against computer crashes or data loss. If any mistake is made, you can easily roll back to a previous version. It is also possible to undo specific edits that too without losing the work done in the meanwhile. It can be easily known when, why, and by whom any part of a file was edited.
+
+## Screenshots:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/b0eb768e-057e-49a4-9db0-5c458c5140e3)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/c0c32068-9af4-4d6a-bd89-24d750e949ab)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/e964dd22-50c5-4de3-939a-d5cf1b616249)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/0c15f025-77fe-48ed-a8ec-c2456cd340ce)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/12f148b5-b340-452c-a37b-3bfc1093edf7)
+
  
 
