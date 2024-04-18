@@ -166,6 +166,14 @@ Moreover, in collaboration with Docker, Jenkins escalates the progress of the de
 3.The process to install and configure Jenkins is pretty tedious.
 
 4.The continuous integration pipeline breaks whenever changes occur in the settings. The integration halts and needs developer interference.
+## Screenshots:
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/13924e18-91ff-4375-9f5f-8c3b2e421f39)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/93adce61-a238-4357-b74c-3f37a1a24cff)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/e425d176-fbd0-4c6b-b0d8-dae6992508d0)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/cba278a5-f027-4117-bae2-d03b2f5c98ab)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/d3987ad8-c4c1-4988-acec-8aeae612538b)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/8e73c891-cb83-4a49-b9f2-3f29fd3ef23d)
+![image](https://github.com/22bdo10074/Semester_4-Practicals/assets/142095565/daab772a-3388-46ad-a928-ee394fb9607d)
 
 ### Conclusion:
 What is Jenkins All About? also advantages and disadvantages.
